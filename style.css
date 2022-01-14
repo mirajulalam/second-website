@@ -154,9 +154,7 @@ hr{
     .player,.blog{
         flex-direction: column;
     }
-
-    
- }
+}
  @media only screen and(min-width:668px)and(max-width:988px){
      .header{
          width:100%;
